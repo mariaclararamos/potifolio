@@ -1,0 +1,71 @@
+body{
+    background-color: linen;
+    
+}
+
+#name{
+    color: black;
+    text-align: center;
+    
+}
+
+#sobre{
+    color: black;
+    text-align: left;
+}
+
+#umnove{
+    color: black;
+    text-align: left;
+}
+
+#hab{
+    color: black;
+}
+
+.test{
+    height: 500px;
+    text-align: center;
+    
+    
+}
+
+.test1{
+    height: 475px;
+}
+
+.test2{
+    height: 465px;
+   
+}
+
+.lab{
+    padding: 0px 50px;
+    color: deeppink;
+    
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 16px;
+
+}
+
+a{
+    color: lightcoral;
+    text-decoration: none;
+}
+
+#eu{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid lightcoral;
+    
+}
+
+.center{
+    text-align: center;
+}
